@@ -1,0 +1,9 @@
+{
+  "name": "Q-CALC: THE AQL STANDARD",
+  "short_name": "Q-CALC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1a",
+  "theme_color": "#0a0f1a",
+  "version": "1.3.3"
+}
